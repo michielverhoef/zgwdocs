@@ -1,4 +1,4 @@
-baseurl: "/gemma-zaken"
+baseurl: "/zgwdocs"
 apiname: "API's voor zaakgericht werken"
 url: "http://localhost:4000"
 # nav is t.b.v. generatie side-navigation menu.
